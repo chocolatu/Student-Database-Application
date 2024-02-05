@@ -11,13 +11,13 @@ Specifications are as follows:
 
 4. A student can enroll in the following courses depending on their grade levels: 
 
-	Level 1 (Freshman): History101, English102, Maths103, Chemistry104, Physics105, Literature106
+      Level 1 (Freshman): History101, English102, Maths103, Chemistry104, Physics105, Literature106
 
-	Level 2 (Sophomore): History201, English202, Maths203, Chemistry204, Physics205, Literature206
+      Level 2 (Sophomore): History201, English202, Maths203, Chemistry204, Physics205, Literature206
 
-	Level 3 (Junior): History301, English302, Maths303, Chemistry304, Physics305, Literature306
+      Level 3 (Junior): History301, English302, Maths303, Chemistry304, Physics305, Literature306
 
-	Level 4 (Senior): History401, English402, Maths403, Chemistry404, Physics405, Literature406
+      Level 4 (Senior): History401, English402, Maths403, Chemistry404, Physics405, Literature406
 
 5. Each course costs $600 to enroll 
 
