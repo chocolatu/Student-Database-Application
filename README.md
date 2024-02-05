@@ -1,5 +1,5 @@
 # Student-Database-Application
-##Scenario: You are a Database Administrator for a university and need to create an application to manage student enrollments and balance.
+#Scenario: You are a Database Administrator for a university and need to create an application to manage student enrollments and balance.
 Specifications are as follows:
 
 1.	Ask the user how many new students will be added to the database
@@ -18,9 +18,9 @@ Specifications are as follows:
 6.	The student should be able to view their balance and pay their tuition
     
 7.	To see the status of the student, we should see their name, ID, courses enrolled, and balance
-##Outline:
+#Outline:
 In this project, I created 2 classes StudentDatabaseApp for main, and Student class for handling the methods. What’s interesting in this project is how to handle the number of students by using an array of Student objects. For example, the users can insert as many students as they want until the number of students handled hit 0, and here I use an array of Students objects, then I create a loop to iterate through each object to handle every single object. 
-##Here is the structure of Student class: 
+#Here is the structure of Student class: 
 •	Constructor: prompt user to enter student's name and year
 •	Generate an ID
 •	Show Course Availability for each grade level year
