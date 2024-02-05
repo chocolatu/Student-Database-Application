@@ -1,3 +1,10 @@
+/*
+ * Duy Duong Le (Harry)
+ * Email: duonglevancouver@gmail.com
+ * Linkedin: linkedin.com/in/duy-duong-le-274612184/
+ * Github: github.com/duyduongle
+ * Date of Completion: February 05, 2024
+ * */
 package studentdatabaseapp;
 
 import java.util.Scanner;
