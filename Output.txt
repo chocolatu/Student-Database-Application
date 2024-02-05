@@ -1,0 +1,99 @@
+Enter the number of new students to enroll: 3
+Enter student's first name: Shawn
+Enter student's last name: Mendes
+1 - for Freshman
+2 - for Sophomore
+3 - for Junior
+4 - for Senior
+Enter student's class level: 3
+Students in this level 3 can enroll the following courses: 
+  History301
+  English302
+  Maths303
+  Chemistry304
+  Physics305
+  Literature306
+Enter course to enroll (Q to quit): History301
+Enter course to enroll (Q to quit): Literature306
+Enter course to enroll (Q to quit): Physics305
+Enter course to enroll (Q to quit): Q
+Your tuition balance is: $1800
+Enter your payment: $459
+Thank you for your payment of $459
+Your tuition balance is: $1341
+Name: Shawn Mendes
+Grade Level: 3
+Student ID: 31001
+Courses enrolled: 
+  History301
+  Literature306
+  Physics305
+Balance: $1341
+
+Enter student's first name: Duy Duong
+Enter student's last name: Le
+1 - for Freshman
+2 - for Sophomore
+3 - for Junior
+4 - for Senior
+Enter student's class level: 4
+Students in this level 4 can enroll the following courses: 
+  History401
+  English402
+  Maths403
+  Chemistry404
+  Physics405
+  Literature406
+Enter course to enroll (Q to quit): English402
+Enter course to enroll (Q to quit): Maths403
+Enter course to enroll (Q to quit): Chemistry404
+Enter course to enroll (Q to quit): Physics405
+Enter course to enroll (Q to quit): Q
+Your tuition balance is: $2400
+Enter your payment: $2400
+Thank you for your payment of $2400
+Your tuition balance is: $0
+Name: Duy Duong Le
+Grade Level: 4
+Student ID: 41002
+Courses enrolled: 
+  English402
+  Maths403
+  Chemistry404
+  Physics405
+Balance: $0
+
+Enter student's first name: John
+Enter student's last name: Smith
+1 - for Freshman
+2 - for Sophomore
+3 - for Junior
+4 - for Senior
+Enter student's class level: 1
+Students in this level 1 can enroll the following courses: 
+  History101
+  English102
+  Maths103
+  Chemistry104
+  Physics105
+  Literature106
+Enter course to enroll (Q to quit): English102
+Enter course to enroll (Q to quit): Maths103
+Enter course to enroll (Q to quit): Chemistry104
+Enter course to enroll (Q to quit): Physics105
+Enter course to enroll (Q to quit): Literature106
+Enter course to enroll (Q to quit): Q
+Your tuition balance is: $3000
+Enter your payment: $3000
+Thank you for your payment of $3000
+Your tuition balance is: $0
+Name: John Smith
+Grade Level: 1
+Student ID: 11003
+Courses enrolled: 
+  English102
+  Maths103
+  Chemistry104
+  Physics105
+  Literature106
+Balance: $0
